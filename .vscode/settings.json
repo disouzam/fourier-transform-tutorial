@@ -1,0 +1,7 @@
+{
+    "jupyter.kernels.excludePythonEnvironments": [
+        "C:\\Program Files\\Python311\\python.exe",
+        "C:\\Program Files\\Python312\\python.exe",
+        "C:\\Program Files\\Python3.9.13\\python.exe"
+    ]
+}
